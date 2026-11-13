@@ -58,3 +58,6 @@ target/
 
 # IPython
 .ipynb_checkpoints
+
+# VSCode
+.vscode
