@@ -1,0 +1,6 @@
+[submodule "emagnet"]
+	path = emagnet
+	url = https://github.com/tiggerntatie/emagnet-py
+[submodule "special-relativity"]
+	path = special-relativity
+	url = https://github.com/tiggerntatie/special-relativity
